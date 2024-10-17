@@ -1,0 +1,13 @@
+# arguments for dataset
+dataset: mnms
+data_root: /data/zihan/dataset/mnms
+n_domains: 4
+n_channels: 3
+n_classes: 4
+image_size: 256
+unlabel_validation: false # whether unlabeled data has labels for validation
+
+# arguments for training
+epochs: 100
+iters: 400
+batch_size: 8

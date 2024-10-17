@@ -1,0 +1,13 @@
+# arguments for dataset
+dataset: fundus
+data_root: /data/zihan/dataset/Fundus
+n_domains: 4
+n_channels: 3
+n_classes: 3 # background, cup, disc
+image_size: 256
+unlabel_validation: true # whether unlabeled data has labels for validation
+
+# arguments for training
+epochs: 400
+iters: 100
+batch_size: 8

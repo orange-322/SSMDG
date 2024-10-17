@@ -1,0 +1,4 @@
+optimizer: adam
+lr: 0.001
+
+balanced: True

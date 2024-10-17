@@ -1,0 +1,13 @@
+# arguments for dataset
+dataset: prostate
+data_root: /data/zihan/dataset/ProstateSlice1
+n_domains: 6
+n_channels: 3
+n_classes: 2
+image_size: 384
+unlabel_validation: true # whether unlabeled data has labels for validation
+
+# arguments for training
+epochs: 50
+iters: 400
+batch_size: 6

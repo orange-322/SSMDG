@@ -1,0 +1,13 @@
+# arguments for dataset
+dataset: covid
+data_root: /data/qmy/Dataset/CovidSlice
+n_domains: 4
+n_channels: 1
+n_classes: 2
+image_size: 256
+unlabel_validation: true # whether unlabeled data has labels for validation
+
+# arguments for training
+epochs: 100
+iters: 200
+batch_size: 10
