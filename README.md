@@ -1,7 +1,34 @@
 # Mamba-Sea
+The complete code will be released after the paper is accepted.
 
-## Pre_trained weights
+## Prepare Datasets
+- './dataset/fundus/' or './data/ProstateSlice/' or './data/skin/'
+  -Domain1
+    - train
+      - images
+        - .png
+      - masks
+        - .png
+    - test
+      - images
+        - .png
+      - masks
+        - .png
+  ......    
+  -Domaink
+    - train
+      - images
+        - .png
+      - masks
+        - .png
+    - test
+      - images
+        - .png
+      - masks
+        - .png
 
-The weights of the pre-trained VMamba could be downloaded [here](https://github.com/MzeroMiko/VMamba) or [Baidu](https://pan.baidu.com/s/1ci_YvPPEiUT2bIIK5x8Igw?pwd=wnyy). After that, the pre-trained weights should be stored in './pretrained_weights/'.
+## Pre_trained Weights
 
-Thanks a lot for the valuable work of [VM-UNet](https://github.com/JCruan519/VM-UNet) and [VMamba](https://github.com/MzeroMiko/VMamba)
+The weights of the pre-trained VMamba could be downloaded [Google Drive](https://github.com/MzeroMiko/VMamba). After that, the pre-trained weights should be stored in './pretrained_weights/'.
+
+Thanks a lot for the valuable work of [VM-UNet](https://github.com/JCruan519/VM-UNet) and [VMamba](https://github.com/MzeroMiko/VMamba).
