@@ -3,7 +3,8 @@ The complete code will be released after the paper is accepted.
 
 ## Prepare Datasets
 - './dataset/fundus/' or './data/ProstateSlice/' or './data/skin/'
-  -Domain1
+
+   -Domain1
     - train
       - images
         - .png
@@ -15,17 +16,7 @@ The complete code will be released after the paper is accepted.
       - masks
         - .png
   ......    
-  -Domaink
-    - train
-      - images
-        - .png
-      - masks
-        - .png
-    - test
-      - images
-        - .png
-      - masks
-        - .png
+
 
 ## Pre_trained Weights
 
