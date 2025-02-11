@@ -2,7 +2,7 @@
 The complete code will be released after the paper is accepted.
 
 ## Prepare Datasets
-- './dataset/fundus/' or './data/ProstateSlice/' or './data/skin/'
+- './dataset/fundus/' or './dataset/ProstateSlice/' or './dataset/skin/'
 
    -Domain1
     - train
