@@ -1,6 +1,5 @@
 # Mamba-Sea
-The core part of Mamba-Sea's code is in [Network](https://github.com/orange-322/SSMDG/blob/main/model/vmunet.py).
-
+The core part of Mamba-Sea's code is in [Network1](https://github.com/orange-322/SSMDG/blob/main/model/vmunet.py) and [Network2](https://github.com/orange-322/SSMDG/blob/main/model/vmamba.py).
 The training and testing part of our code will be released after the paper is accepted.
 
 ## Prepare Datasets
