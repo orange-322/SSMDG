@@ -1,5 +1,7 @@
 # Mamba-Sea
-The complete code will be released after the paper is accepted.
+The core part of Mamba-Sea's code is in [Network](https://github.com/orange-322/SSMDG/blob/main/model/vmunet.py).
+
+The training and testing part of our code will be released after the paper is accepted.
 
 ## Prepare Datasets
 - './dataset/fundus/' or './dataset/ProstateSlice/' or './dataset/skin/'
